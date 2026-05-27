@@ -75,6 +75,4 @@ Kigali, Rwanda location map
 ❓ FAQ section
 🛠️ Tech Stack (Suggested)
 HTML5 / CSS3 / JavaScript
-React (optional for advanced version)
-Tailwind CSS (recommended for modern UI)
-Git & GitHub for version control
+
