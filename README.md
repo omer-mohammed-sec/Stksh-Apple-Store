@@ -115,4 +115,5 @@ GitHub repository management
 Writing professional documentation (README)
 Structuring a full web project  
 ## 🌐 Live Demo
-👉 
+👉 ## 🌐 Live Demo
+👉 https://username.github.io/repo-name/
