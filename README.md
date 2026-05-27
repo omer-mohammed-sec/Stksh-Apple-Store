@@ -91,7 +91,7 @@ FAQ section
 🖼️ Screenshots
 🏠 Homepage
 
-Homepage screenshot
+Homepage screenshot <img width="1888" height="880" alt="Image" src="https://github.com/user-attachments/assets/0a7399cc-20a3-47f8-b0f5-fdcbf54e5be2" />
 
 📦 Products Page
 
