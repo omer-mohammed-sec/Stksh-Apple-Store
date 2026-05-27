@@ -1,78 +1,115 @@
-# Stksh-Apple-Store
-📱 STKSH – Premium Apple E-commerce Store
+📱 STKSH – Premium iPhone E-Commerce Website
 
-Welcome to STKSH, a luxury modern e-commerce website designed for selling Apple iPhones and accessories.
-This project delivers a clean, premium, and Apple-inspired shopping experience with a focus on elegance, performance, and usability.
+Name: Omer Mohammed Abdelhadi
+Course: E-Commerce and Web Application
+Course Code: EWA408510
+Academic Year: 2025–2026
+🚀 Project Title
 
-✨ Design Philosophy
-Luxury & minimal UI inspired by Apple Store
-Black, white, and gold premium color palette
-Smooth animations and modern transitions
-Fully responsive (Mobile / Tablet / Desktop)
-Apple-style typography and spacing
-🌐 Pages Overview
-🏠 1. Homepage
+STKSH – Luxury Apple iPhone E-Commerce Store
+
+📝 Project Description
+
+STKSH is a modern premium e-commerce website designed for selling Apple iPhones and accessories.
+
+The project focuses on delivering a luxury Apple-inspired shopping experience with a clean UI, smooth navigation, and responsive design across all devices.
+
+The website provides users with:
+
+Premium product browsing experience
+Shopping cart functionality
+Modern UI/UX design
+Easy navigation between pages
+Professional product showcase
+🎨 Design Style
+Luxury & minimal UI
+Apple-inspired interface
+Black, white, and gold color palette
+Smooth animations
+Fully responsive design (mobile, tablet, desktop)
+🛠️ Platform Used
+Wix / Shopify / WordPress (No-Code Platform)
+GitHub (for documentation & version control)
+🌐 Website Pages
+🏠 Homepage
 Hero section with premium iPhone banner
-Welcome message introducing STKSH
-Featured iPhones section
-Promotions & discount banners
+Welcome message
+Featured products section
+Promotions & discounts
 Customer reviews
-“Shop Now” CTA button
-📦 2. Products Page
+“Shop Now” button
+📦 Products Page
 
-Displays premium Apple devices including:
+Displays iPhone products with:
 
-Each product includes:
-
-Product image
+Image of product
 Price
 Description
 Storage size
 Battery health
 Condition (New / Used)
-“Add to Cart” button
+Add to Cart button
 
-📱 Suggested Products:
+📱 Products Included:
 
 iPhone 15 Pro Max
 iPhone 14 Pro
-iPhone 13
+iPhone 13 Pro
 iPhone 12 Pro Max
 iPhone SE
-🔍 3. Product Details Page
-
-Advanced product view with:
-
+🔍 Product Details Page
 Full specifications
 Large image gallery
 Serial number checker (simulation)
 Apple warranty verification (simulation)
 Battery health indicator
-“Buy Now” & “Add to Cart” buttons
-ℹ️ 4. About Page
+Buy Now / Add to Cart buttons
+ℹ️ About Page
 Mission of STKSH store
-Focus on trusted premium Apple devices
-Quality assurance and verified products
-Commitment to customer satisfaction
-📞 5. Contact Page
+Focus on trusted Apple devices
+Quality assurance
+Customer satisfaction guarantee
+📞 Contact Page
 Contact form
-WhatsApp direct button
+WhatsApp button
 Email & phone number
 Kigali, Rwanda location map
-⚙️ Features
-🛒 Shopping cart functionality
-🔎 Search bar for products
+⚙️ Features Implemented
+🛒 Shopping cart system
+🔎 Product search bar
 📂 Product categories
-📱 Fully responsive navbar
-🌙 Dark mode premium UI
+📱 Responsive navigation bar
+🌙 Dark mode luxury theme
 ⚡ Smooth animations
-🍏 Apple-inspired UX design
+🍏 Apple-style UI design
 🦶 Professional footer with social links
-🚀 Extra Sections
-🔁 Trade-in program (exchange old devices)
-🔥 Flash deals & limited offers
-🆕 New arrivals section
-❓ FAQ section
-🛠️ Tech Stack (Suggested)
-HTML5 / CSS3 / JavaScript
+🔥 Extra Sections
+Trade-in program (exchange old devices)
+Flash deals & discounts
+New arrivals section
+FAQ section
+🖼️ Screenshots
+🏠 Homepage
 
+Homepage screenshot
+
+📦 Products Page
+
+Products screenshot
+
+📞 Contact Page
+
+Contact screenshot
+
+🧠 Challenges Faced
+Designing a luxury Apple-style UI
+Organizing product structure clearly
+Making website fully responsive
+Choosing matching premium colors
+Building clean navigation flow
+📚 Lessons Learned
+How to build a no-code e-commerce website
+UI/UX design principles
+GitHub repository management
+Writing professional documentation (README)
+Structuring a full web project
