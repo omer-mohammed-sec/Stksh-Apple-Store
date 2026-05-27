@@ -101,7 +101,7 @@ Products screenshot <img width="1900" height="865" alt="Image" src="https://gith
 
 Contact screenshot  <img width="1902" height="858" alt="Image" src="https://github.com/user-attachments/assets/69d55e0a-f4aa-4676-9a9e-5a22b730c0dc" />
 Cart Page 
-Cart Page screenshot 
+Cart Page screenshot <img width="1919" height="827" alt="Image" src="https://github.com/user-attachments/assets/f443381a-5b07-4a30-9eac-07384b47a921" />
 🧠 Challenges Faced
 Designing a luxury Apple-style UI
 Organizing product structure clearly
