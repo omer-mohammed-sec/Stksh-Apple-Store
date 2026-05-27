@@ -116,4 +116,4 @@ Writing professional documentation (README)
 Structuring a full web project  
 ## 🌐 Live Demo
 👉 ## 🌐 Live Demo
-👉 https://omer-mohammed-sec.github.io/Stksh-Apple-Store/
+👉 https://reliable-crumble-f0b64e.netlify.app/
