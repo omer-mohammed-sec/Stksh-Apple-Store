@@ -95,7 +95,7 @@ Homepage screenshot <img width="1888" height="880" alt="Image" src="https://gith
 
 📦 Products Page
 
-Products screenshot
+Products screenshot <img width="1900" height="865" alt="Image" src="https://github.com/user-attachments/assets/dc97c554-7ef0-41a2-9c21-a45c09e62d22" />
 
 📞 Contact Page
 
